@@ -9,7 +9,9 @@
         "README.md",
         "MFRC522.ts",
         "_locales/de/pxt-mfrc522-jsdoc-strings.json",
-        "_locales/de/pxt-mfrc522-strings.json"
+        "_locales/de/pxt-mfrc522-strings.json",
+        "_locales/nl/pxt-mfrc522-jsdoc-strings.json",
+        "_locales/nl/pxt-mfrc522-strings.json"
     ],
     "testFiles": [
         "test.ts"
